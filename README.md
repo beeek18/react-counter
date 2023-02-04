@@ -1,3 +1,3 @@
 <h1>Counter ➖➕
  
-<h3>Simple and nice counter
+<h4>Simple and nice for using
